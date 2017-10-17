@@ -21,3 +21,5 @@ Explanation: 4 = min(1, 2) + min(3, 4)
 
 可以推出：`Sa = 2Sm + Sd` ==> `Sm = (Sa - Sd) / 2` ==> 只需Sd最小，即可求得Sm的最大值  
 对于已排序数组，`a1<=b1<=a2<=b2`，这样的Sd最小。所以可以先对数组排序，然后从第一项起，每隔一项进行相加，所得即为最终解
+
+[传送门](https://leetcode.com/problems/array-partition-i/description/)

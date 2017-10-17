@@ -12,3 +12,5 @@
 3,2,1 -> 1,2,3
 1,1,5 -> 1,5,1
 ```
+
+[传送门](https://github.com/coells/100days/blob/master/day%2003%20-%20next%20permutation.ipynb)

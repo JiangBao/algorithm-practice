@@ -42,3 +42,5 @@ for subLen = 2 to n
   for start = 0 to len-subLen
     for k = start to start+subLen-1
 ```
+
+[传送门](https://github.com/coells/100days/blob/master/day%2002%20-%20matrix%20chain%20multiplication.ipynb)

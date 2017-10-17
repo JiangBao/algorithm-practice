@@ -11,3 +11,5 @@ example 2:
 Input: "LL"
 Output: false
 ```
+
+[传送门](https://leetcode.com/problems/judge-route-circle/description/)
