@@ -18,6 +18,3 @@ const singleNumber = (nums) => {
   //   if (map[i] === 1) return parseInt(i);
   // }
 }
-
-const res = singleNumber([2, 6, 1, 2, 6]);
-console.log('===> ' + res);
