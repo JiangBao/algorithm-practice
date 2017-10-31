@@ -11,7 +11,3 @@ const moveZeroes = (nums) => {
     nums[i] = 0;
   }
 }
-
-var nums = [0, 1, 0, 3, 12];
-moveZeroes(nums);
-console.log(nums);
