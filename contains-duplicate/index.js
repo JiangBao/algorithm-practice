@@ -16,5 +16,3 @@ const containsDuplicate = (nums) => {
   }
   return false; 
 }
-
-console.log(containsDuplicate([3, 3]));
