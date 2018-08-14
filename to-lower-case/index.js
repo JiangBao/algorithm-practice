@@ -11,3 +11,5 @@ const toLowerCase = (str) => {
 
   return res;
 }
+
+module.exports = toLowerCase;
