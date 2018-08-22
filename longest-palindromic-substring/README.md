@@ -9,5 +9,6 @@ output: bab or aba
 ```
 
 ## 思路
+Manacher's Algorithm 马拉车算法
 
 [传送门](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)
